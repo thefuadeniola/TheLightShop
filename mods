@@ -1,0 +1,10 @@
+add categories, use .split()
+make reviews count work
+change theme, fonts and name to TheLightShop
+get similar products using products from the db that has same category
+
+add an option to compare same product across 2 websites (major):
+- might need a second search bar
+- modify the database model to include prices from both sites
+- note both urls (important for buy now and price comparison)
+- mark each price w the sites they're coming from
